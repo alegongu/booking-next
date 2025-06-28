@@ -34,4 +34,3 @@ BLOB_READ_WRITE_TOKEN=""
 
 ## Contribution
 
-All kind of contributions are welcome, please feel free to submit pull requests.
