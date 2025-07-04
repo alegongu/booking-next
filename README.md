@@ -30,8 +30,3 @@ BLOB_READ_WRITE_TOKEN=""
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [NextAuth.js](https://next-auth.js.org/)
 
-## Contribution
-=========
-All kind of contributions are welcome, please feel free to submit pull requests.
-==============================================
-+++++++++++++++++++++++++++++++++++++++++++++
