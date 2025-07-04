@@ -18,18 +18,9 @@ POSTGRES_HOST=""
 POSTGRES_PASSWORD=""
 
 BLOB_READ_WRITE_TOKEN=""
-```
 
-4. Start the development server: `npm run dev`
 
-## Built With
 
-- [Next.js 14](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Shadcn/ui](https://ui.shadcn.com/)
-- [NextAuth.js](https://next-auth.js.org/)
 
-## Contribution
-======
-All kind of contributions are welcome, please feel free to submit pull requests.
+
+
