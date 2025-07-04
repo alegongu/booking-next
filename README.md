@@ -20,7 +20,7 @@ POSTGRES_PASSWORD=""
 BLOB_READ_WRITE_TOKEN=""
 ```
 
-4. Start the development server: `npm run dev`
+
 
 
 
